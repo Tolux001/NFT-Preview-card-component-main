@@ -29,8 +29,7 @@ p {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh;
-    width: 100vw;
+    min-height: 100vh;
 }
 .child {
     background-color: hsl(216, 50%, 16%);
