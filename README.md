@@ -51,11 +51,11 @@ Ads: You can use a tool like [FireShot](https://getfireshot.com/) to take the sc
 ### Git Clone
 
 ```git clone
-
+    https://github.com/Tolux001/NFT-Preview-card-component-main.git
 ```
 
 ```git clone
-
+    https://github.com/Tolux001/NFT-Preview-card-component-main.git
 ```
 
 ### Continued development
@@ -74,4 +74,4 @@ I took up this task to learn and get used to centering of div that is responsive
 
 - Twitter         - [@Tolux001](https://www.twitter.com/tolux001)
 
--Linkedin         - [@ToluwalaseAdejuwon](https://www.linkedin.com/in/adejuwon-toluwalase-660580234)
+- Linkedin        - [@ToluwalaseAdejuwon](https://www.linkedin.com/in/adejuwon-toluwalase-660580234)
