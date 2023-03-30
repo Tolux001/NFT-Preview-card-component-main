@@ -1,6 +1,6 @@
 # Frontend Mentor - NFT preview card component solution
 
-    This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
+    This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
 
 ## Table of contents
 
@@ -34,8 +34,8 @@ Ads: You can use a tool like [FireShot](https://getfireshot.com/) to take the sc
 
 ### Links
 
-- Solution URL: [Github Repo](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/Tolux001/NFT-Preview-card-component-main)
+- Live Site URL: [Live site](https://eth-card.netlify.app/)
 
 ## My process
 
