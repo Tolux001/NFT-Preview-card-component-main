@@ -75,4 +75,4 @@ I took up this task to learn and get used to centering of div that is responsive
 
 - Twitter         - [@Tolux001](https://www.twitter.com/tolux001)
 
-- Linkedin        - [@ToluwalaseAdejuwon](https://www.linkedin.com/in/adejuwon-toluwalase-660580234)
+- Linkedin        - [@ToluwalaseAdejuwon](https://www.linkedin.com/in/tolux)
